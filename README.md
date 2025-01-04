@@ -1,1 +1,1 @@
-  Live Link: https://mahin-portfolio.surge.sh/contact
+  Live Link: https://mahin-portfolio.surge.sh/
