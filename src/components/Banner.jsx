@@ -29,8 +29,7 @@ const Banner = () => {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 1 }}
                 >
-                    A Sydney-based front-end developer passionate about building
-                    accessible and user-friendly websites.
+                    A front-end developer passionate about building accessible, user-friendly, and visually appealing websites, focused on creating seamless experiences through modern design and clean, efficient code.
                 </motion.p>
                 <motion.div
                     className="flex items-center space-x-4"
