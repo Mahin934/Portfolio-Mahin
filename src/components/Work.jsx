@@ -12,7 +12,7 @@ const projects = [
     image: "https://i.ibb.co.com/Tcv7hff/Screenshot-2025-01-04-205706.png",
     demoLink: "https://mahin-find-track.surge.sh/",
     githubLink:
-      "https://github.com/programming-hero-web-course2/b10a11-client-side-Mahin934",
+      "https://github.com/Mahin934/FindTrack-Website-Client",
   },
   {
     id: 2,
@@ -24,7 +24,7 @@ const projects = [
     image: "https://i.ibb.co.com/LJ3mMpR/Screenshot-2025-01-04-210809.png",
     demoLink: "https://mahin-frost-guardian.surge.sh/",
     githubLink:
-      "https://github.com/programming-hero-web-course1/b10-a9-authentication-Mahin934",
+      "https://github.com/Mahin934/winter-clothing-donation-website-assign-10?tab=readme-ov-file",
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ const projects = [
     image: "https://i.ibb.co.com/sRzWV60/Screenshot-2025-01-04-211449.png",
     demoLink: "https://mahin-gadgets-shop-webpage.surge.sh/",
     githubLink:
-      "https://github.com/programming-hero-web-course2/b10a8-gadget-heaven-Mahin934",
+      "https://github.com/Mahin934/gadgets-shop-react-website-assign-8",
   },
 ];
 

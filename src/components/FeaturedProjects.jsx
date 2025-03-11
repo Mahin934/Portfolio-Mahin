@@ -57,7 +57,7 @@ const FeaturedProjects = () => {
                                 <span>Live Demo</span>
                             </a>
                             <a
-                                href="https://github.com/programming-hero-web-course2/b10a11-client-side-Mahin934"
+                                href="https://github.com/Mahin934/FindTrack-Website-Client"
                                 className="flex items-center text-green-400 hover:text-green-300 font-semibold space-x-2"
                             >
                                 <FaGithub />
@@ -110,7 +110,7 @@ const FeaturedProjects = () => {
                                 <span>Live Demo</span>
                             </a>
                             <a
-                                href="https://github.com/programming-hero-web-course1/b10-a9-authentication-Mahin934"
+                                href="https://github.com/Mahin934/winter-clothing-donation-website-assign-10?tab=readme-ov-file"
                                 className="flex items-center text-green-400 hover:text-green-300 font-semibold space-x-2"
                             >
                                 <FaGithub />
@@ -163,7 +163,7 @@ const FeaturedProjects = () => {
                                 <span>Live Demo</span>
                             </a>
                             <a
-                                href="https://github.com/programming-hero-web-course2/b10a8-gadget-heaven-Mahin934"
+                                href="https://github.com/Mahin934/gadgets-shop-react-website-assign-8"
                                 className="flex items-center text-green-400 hover:text-green-300 font-semibold space-x-2"
                             >
                                 <FaGithub />

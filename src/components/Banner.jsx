@@ -6,7 +6,7 @@ import "animate.css"; // Importing Animation.css for additional effects
 
 const Banner = () => {
     // Direct download link
-    const googleDriveCVLink = "https://drive.google.com/uc?export=download&id=1rJ865t1NT31Grau4GtXXIJ0WcMn72EyV";
+    const googleDriveCVLink = "https://drive.google.com/uc?export=download&id=1RpDlPlZvfEmqyFIy6IDXKo3oewQOm71Y";
 
     return (
         <div className="flex flex-col md:flex-row items-center justify-between text-white p-8">
@@ -75,7 +75,7 @@ const Banner = () => {
             >
                 <div className="rounded-xl overflow-hidden">
                     <img
-                        src="https://i.ibb.co/D5DCb1t/img1-1.png" // Ensure this is the correct image URL
+                        src="https://i.ibb.co.com/MysJ8xpk/PXL-20250222-070939486-removebg-preview.png" // Ensure this is the correct image URL
                         alt="Mahin Mia"
                         className="w-full md:h-[780px] object-cover"
                     />
